@@ -101,7 +101,7 @@ contextInfo: {
 externalAdReply: {
 title: "ᴍᴀʟᴠɪɴ-ᴋɪɴɢ",
 thumbnailUrl: "https://files.catbox.moe/39z8jd.jpg",
-sourceUrl: "https://whatsapp.com/channel/0029Vac8SosLY6d7CAFndv3Z",
+sourceUrl: "https://whatsapp.com/channel/0029VaqdVpYGU3BTWmGp5Z2r",
 mediaType: 1,
 renderLargerThumbnail: true
 }  
@@ -117,7 +117,7 @@ contextInfo: {
 externalAdReply: {
 title: "ᴍᴀʟᴠɪɴ-ᴍᴅ",
 thumbnailUrl: "https://files.catbox.moe/39z8jd.jpg",
-sourceUrl: "https://whatsapp.com/channel/0029VahMZasD8SE5GRwzqn3Z",
+sourceUrl: "https://whatsapp.com/channel/0029VaqdVpYGU3BTWmGp5Z2r",
 mediaType: 2,
 renderLargerThumbnail: true,
 showAdAttribution: true
