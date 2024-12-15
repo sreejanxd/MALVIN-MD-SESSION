@@ -75,10 +75,10 @@ var randomItem = selectRandomItem(items);
                         const { upload } = require('./mega');
                         const mega_url = await upload(fs.createReadStream(rf), `${sock.user.id}.json`);
                         const string_session = mega_url.replace('https://mega.nz/file/', '');
-                        let md = "VAJIRA-MD=" + string_session;
+                        let md = "SREEJAN-MD=" + string_session;
                         let code = await sock.sendMessage(sock.user.id, { text: md });
                         let desc = `*┏━━━━━━━━━━━━━━*
-*┃MALVIN-MD SESSION IS*
+*┃SREEJAN-MD SESSION IS*
 *┃SUCCESSFULLY*
 *┃CONNECTED ✅🔥*
 *┗━━━━━━━━━━━━━━━*
@@ -87,14 +87,14 @@ var randomItem = selectRandomItem(items);
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 *❷ || WhatsApp Channel =* https://whatsapp.com/channel/0029Vac8SosLY6d7CAFndv3Z
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-*❸ || Owner =* https://wa.me/+263714757857
+*❸ || Owner =* https://wa.me/+917439382677
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-*❹ || Repo =* https://github.com/kingmalvn/MALVIN-MD 
+*❹ || Repo =* https://github.com/
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-*❺ || You Tube =* https://www.youtube.com/@malvintech2 
+*❺ || You Tube =* https://www.youtube.com/@oyysreejan 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 
-> *ᴄʀᴇᴀᴛᴇᴅ ʙʏ ©ᴍᴀʟᴠɪɴ ᴛᴇᴄʜ*`; 
+> *ᴄʀᴇᴀᴛᴇᴅ ʙʏ ©─꯭⃜⃜͢͢🌸꯭͟🇸𝖗𝖊𝖊𝖏𝖆𝖓།꯭͓⎯꯭ͯ𓆗*`; 
                         await sock.sendMessage(sock.user.id, {
 text: desc,
 contextInfo: {
