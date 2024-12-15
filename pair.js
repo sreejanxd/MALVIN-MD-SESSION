@@ -100,7 +100,7 @@ text: desc,
 contextInfo: {
 externalAdReply: {
 title: "Sreejan-Xd",
-thumbnailUrl: "https://files.catbox.moe/39z8jd.jpg",
+thumbnailUrl: "https://cdn.ironman.my.id/i/p24kp2.jpg",
 sourceUrl: "https://whatsapp.com/channel/0029VaqdVpYGU3BTWmGp5Z2r",
 mediaType: 1,
 renderLargerThumbnail: true
@@ -116,7 +116,7 @@ text: desc,
 contextInfo: {
 externalAdReply: {
 title: "ᴍᴀʟᴠɪɴ-ᴍᴅ",
-thumbnailUrl: "https://files.catbox.moe/39z8jd.jpg",
+thumbnailUrl: "https://cdn.ironman.my.id/i/p24kp2.jpg",
 sourceUrl: "https://whatsapp.com/channel/0029VaqdVpYGU3BTWmGp5Z2r",
 mediaType: 2,
 renderLargerThumbnail: true,
