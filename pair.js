@@ -85,7 +85,7 @@ var randomItem = selectRandomItem(items);
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 *❶ || My Web =* coming soon
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-*❷ || WhatsApp Channel =* https://whatsapp.com/channel/0029Vac8SosLY6d7CAFndv3Z
+*❷ || WhatsApp Channel =* https://whatsapp.com/channel/0029VaqdVpYGU3BTWmGp5Z2r
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 *❸ || Owner =* https://wa.me/+917439382677
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
