@@ -93,7 +93,7 @@ renderLargerThumbnail: true
 text: desc,
 contextInfo: {
 externalAdReply: {
-title: "ᴍᴀʟᴠɪɴ-ᴍᴅ",
+title: "❥◎⃝𝙎𝙍𝙀𝙀𝙅𝘼𝙉🩷🌸'༢༎",
 thumbnailUrl: "https://files.catbox.moe/39z8jd.jpg",
 sourceUrl: "https://whatsapp.com/channel/0029Vac8SosLY6d7CAFndv3Z",
 mediaType: 2,
